@@ -99,6 +99,18 @@
   animation: show 0.7s forwards linear;
 }
 
+/* .cl-internal-1hp5nqm {
+  display: none;
+} */
+
+.cl-internal-y44tp9:has(div:only-child){
+  display: none;
+}
+
+.cl-internal-16vtwdp {
+  display: none;
+}
+
 @keyframes show {
   0% {
     animation-timing-function: ease-in;
